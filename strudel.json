@@ -4,5 +4,10 @@
   "vox1": "Vox 1.mp3",
   "vox2": "Vox2.mp3",
   "vox3": "Vox3.mp3",
-  "vox4": "Vox4.mp3"
+  "vox4": "Vox4.mp3",
+  "voxcount": "VoxCount.mp3",
+  "ripl": "Ripple.mp3",
+  "rata": "Rata.mp3",
+  "moan": "Moan.mp3",
+  "moanbeat": "MoanBeat.mp3"
 }
